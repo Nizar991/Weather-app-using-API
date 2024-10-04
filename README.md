@@ -23,11 +23,3 @@ This is a mobile weather application developed using **Android Studio** in **Kot
 2. Allow location permissions to get weather data for your current area or manually enter a location.
 3. View weather details including temperature, wind, pressure, humidity, and sunrise/sunset times.
 4. Check for current weather conditions like haze, cloudy, or others based on the latest data.
-
-## Future Enhancements
-- Adding a feature to view hourly and weekly weather forecasts.
-- Implementing weather alerts and notifications for severe conditions.
-- Providing historical weather data for the selected location.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
